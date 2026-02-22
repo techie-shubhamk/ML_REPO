@@ -2,3 +2,6 @@ Data url : https://www.kaggle.com/datasets/jayjoshi37/digital-payment-fraud-dete
 Objective : Digital Payment Fraud Detection
 venv (activate) : source .venv/bin/activate
 pip freeze > requirements.txt
+on system level : brew install libomp
+().venv) pip uninstall xgboost
+pip install --no-cache-dir xgboost
